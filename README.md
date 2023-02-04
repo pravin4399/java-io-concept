@@ -45,3 +45,4 @@
 ### ```ByteArrayOutputStream```
 1. > This class implements an output stream in which the data is written into a byte array. The buffer automatically grows as data is written to it. The data can be retrieved using toByteArray() and toString().
 2. > Closing a ByteArrayOutputStream has no effect. The methods in this class can be called after the stream has been closed without generating an IOException.
+.
